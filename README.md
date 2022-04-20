@@ -1,5 +1,7 @@
 # Dynamic on mesh painter with Three.js
 
+[Try it live on GitHub Pages!](https://intfloatbool.github.io/dynamic-3d-painter-web-typescript/)
+
 #### Features!
 - Mouse raycast on mesh UV
 - Color selection
